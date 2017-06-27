@@ -1,0 +1,16 @@
+---
+_hotel_id: NYL898
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 40.78225
+longitude: -73.98025
+name: NYLO New York City
+email: steffan@traveltripper.io
+phone_number: "--"
+address:
+  street1: 2178 Broadway at W 77th St
+  street2: ''
+  state: New York
+  city: New York
+  country: United States
+  zip_code: '10024'
